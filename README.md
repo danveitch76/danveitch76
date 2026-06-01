@@ -1,49 +1,80 @@
-## Hi there 👋 Welcome to my GitHub!
+## Hi there 👋
+I'm **Dan**.
 
-I’m **Dan**, a technology leader passionate about **innovation, problem-solving, and digital transformation**. My expertise spans **IT strategy, cloud computing, compliance, and technology integration**—skills honed through a career in global industries like healthcare, insurance, and financial services.
+I lead technology for a living and build technology for fun.
 
-### 🔭 What I'm Working On
-- Exploring **Raspberry Pi** projects and IoT solutions.
-- Building **Linux-based automation tools** for personal and professional use.
-- Advancing my knowledge of **modern cloud technologies** and DevOps practices.
+Over the years I've worked across healthcare, insurance and financial services, leading technology teams, transformation programmes and large-scale platforms. Outside work, I still enjoy getting hands-on, figuring out how things work, and occasionally disappearing down a technical rabbit hole that started with a simple question.
 
-### 🌱 What I'm Learning
-- Expanding my expertise in **containerization** with Docker and Kubernetes.
-- Diving into **AI/ML models** and their practical applications.
-- Keeping up-to-date with **cybersecurity trends** and certifications.
-
-### 👯 Let's Collaborate On
-- Open-source **hardware and electronics** projects.
-- Practical applications of **3D printing** in tech innovation.
-- Streamlining **IT operations** using scripting and automation.
-
-### 💬 Ask Me About
-- Raspberry Pi, Linux, and custom **home-lab setups**.
-- **Digital transformation** strategies and scaling IT solutions.
-- My experiences leading large-scale projects and global teams.
-
-### 📫 How to Reach Me
-- **LinkedIn**: https://www.linkedin.com/in/danveitch/
-
-### ⚡ Fun Facts
-- I’m a hands-on builder who loves bringing tech ideas to life.
-- I enjoy solving puzzles—technical or otherwise!
+This GitHub profile is where curiosity usually wins.
 
 ---
 
-> "Continuous learning and innovation drive success—let's build something amazing together!"
+### 🔭 What I'm Working On
 
-<!--
-**danveitch76/danveitch76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Building and refining a Proxmox-based homelab
+* Exploring local Artificial Intelligence models, agents and automation
+* Creating infrastructure and operational tooling
+* Self-hosting services and experimenting with new technologies
+* Breaking things, fixing them, and occasionally documenting the process
 
-Here are some ideas to get you started:
+### 🌱 What I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Artificial Intelligence frameworks and local model platforms
+* Infrastructure as code and repeatable deployment patterns
+* Better ways to automate repetitive work
+* Observability, monitoring and operational tooling
+* Whatever technical rabbit hole has captured my attention this week
+
+### 👯 Let's Collaborate On
+
+* Homelab and self-hosting projects
+* Linux and infrastructure automation
+* Monitoring and observability
+* Electronics and hardware projects
+* Interesting ideas that solve real-world problems
+
+### 💬 Ask Me About
+
+* Proxmox, Linux and self-hosted infrastructure
+* Technology leadership and transformation
+* Operating technology in regulated environments
+* Artificial Intelligence experimentation
+* Cloud platforms and operational resilience
+* Why technology problems are often people problems in disguise
+
+### 🛠️ Things I Enjoy Building
+
+* Infrastructure platforms
+* Automation tooling
+* Home Assistant integrations
+* Linux utilities
+* Electronics projects
+* 3D printing solutions
+* Practical engineering shortcuts
+
+### 🏠 Current Playground
+
+* Proxmox
+* Linux
+* Docker
+* Home Assistant
+* Artificial Intelligence
+* Electronics
+* 3D Printing
+* Raspberry Pi
+
+### 📫 Find Me Elsewhere
+
+* 💼 **LinkedIn**: https://www.linkedin.com/in/danveitch/
+
+### ⚡ A Few Things About Me
+
+* I learn best by taking things apart and understanding how they work.
+* My homelab exists because apparently running one technology estate wasn't enough.
+* I've spent entire weekends automating tasks that would have taken five minutes to do manually.
+* Most projects start with the words: *"I wonder if..."*
+* If there's a way to automate it, there's a good chance I've already tried.
+
+---
+
+> Lead technology. Build things. Stay curious.
